@@ -1,5 +1,5 @@
 <template>
-<h1>Đăng Bông đổi code từ VS Code nè</h1>
+<h1>Lần đổi code thứ 2 từ VS Code</h1>
   <div>
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
